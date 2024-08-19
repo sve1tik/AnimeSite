@@ -7,7 +7,7 @@
 			<div class="nav__link">
 				<router-link to="/">Home</router-link> |
 				<router-link :to="{ name: 'serials', params: { id: dataCode } }" @click="randomTitle">Random</router-link> |
-				<router-link to="/all">Releases</router-link> |
+				<router-link to="/all">Releases</router-link>
 			</div>
 			<div class="seacrh">
 				<input type="text" placeholder="Поиск аниме" @input="searchAnime($event.target.value)">
