@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.pagination {
+  margin-bottom: 20px;
+}
