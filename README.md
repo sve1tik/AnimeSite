@@ -14,5 +14,6 @@
 - **Vue 3**: A progressive JavaScript framework for building user interfaces.
 - **Vite**: A build tool for Vue, providing fast development and hot module replacement.
 - **Anilibria v3 API**: The data source for all anime information.
-- **Axios: A promise-based HTTP client for making requests to the Anilibria API.
-- This was my first Vue 3 project, and I'm open to feedback on how to improve it.
+- **Axios**: A promise-based HTTP client for making requests to the Anilibria API.
+
+### This was my first Vue 3 project, and I'm open to feedback on how to improve it.
