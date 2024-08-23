@@ -1,4 +1,4 @@
-# [AnimeSite](_blank:https://sve1tik.github.io/AnimeSite/)
+# [AnimeSite](https://sve1tik.github.io/AnimeSite/)
  A web application for watching anime, built using the Anilibria v3 API.
 
 ## Features:
