@@ -72,7 +72,7 @@ export default {
               [1080p]https://cache.libria.fun${episodeData.hls.fhd}
               ` : `[480p]https://cache.libria.fun${episodeData.hls.sd},
               [720p]https://cache.libria.fun${episodeData.hls.hd}`,
-							poster: this.data.player.list[episode].preview != null ? `https://static-libria.weekstorm.one${this.data.player.list[episode].preview}` : '/preview.png',
+							poster: this.data.player.list[episode].preview != null ? `https://static-libria.weekstorm.one${this.data.player.list[episode].preview}` : '/AnimeSite/preview.png',
 							"default_quality": "720p",
 							id: this.data.id,
 						};
