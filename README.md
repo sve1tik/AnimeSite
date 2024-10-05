@@ -16,7 +16,7 @@
 - **Anilibria v3 API**: The data source for all anime information.
 - **Axios**: A promise-based HTTP client for making requests to the Anilibria API.
 
-##In the future:
+## In the future:
 
 - Make the site responsive
 
