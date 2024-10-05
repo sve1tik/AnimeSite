@@ -16,4 +16,8 @@
 - **Anilibria v3 API**: The data source for all anime information.
 - **Axios**: A promise-based HTTP client for making requests to the Anilibria API.
 
+##In the future:
+
+- Make the site responsive
+
 ### This was my first Vue 3 project, and I'm open to feedback on how to improve it.
